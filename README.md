@@ -1,9 +1,13 @@
 <h1 align="center">Hi👋, I'm Fidan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">
+  A passionate frontend developer
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756395-cf3b95d6-7889-47cf-9456-ce0c96c664d5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg3NDcyMjYsIm5iZiI6MTc4ODc0NjkyNiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzOTUtY2YzYjk1ZDYtNzg4OS00N2NmLTk0NTYtY2UwYzk2YzY2NGQ1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTA3VDAyMDg0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlNmE3NjkwNDU4MzUwOTJmMTJlMTZiN2NjYWVkM2Q1YWU2NGIxYWJhMGFkYmNiOTkzYmQzNmI1YzlmYmY4YjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.62Pd7X-Ffy0kCPyx67LGulDo4UmKdP34zyEyFC4uwT4" width="100" align="center" />
+</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mammadovafidan&" alt="Fidan's streak stats" />
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fidanmammedova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fidanmammedova" height="30" width="40" /></a>
